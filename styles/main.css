@@ -16,3 +16,12 @@ p {
 	color: white;
 	padding: 10px 10px 10px 10px;
 }
+
+.links {
+	background: blue;
+	color: white;
+	padding: 5px 5px;
+}
+.hide {
+	display: none;
+}
